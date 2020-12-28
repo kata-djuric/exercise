@@ -22,7 +22,6 @@ import static org.jooq.impl.DSL.avg;
 @Service
 public class MeasurementService {
 
-
     @Autowired
     private DSLContext create;
 
